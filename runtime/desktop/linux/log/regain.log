@@ -1,0 +1,69 @@
+2016-03-09 15:57:08 [Thread-24] ERROR: Updating index failed
+java.lang.ExceptionInInitializerError
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at net.sf.regain.util.ui.BrowserLauncher.<clinit>(Unknown Source)
+	... 4 more
+2016-03-09 15:57:18 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:57:28 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:57:38 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:57:48 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:57:58 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:58:08 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:58:18 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:58:28 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:58:38 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
+2016-03-09 15:58:48 [Thread-24] ERROR: Updating index failed
+java.lang.NoClassDefFoundError: Could not initialize class net.sf.regain.util.ui.BrowserLauncher
+	at net.sf.regain.ui.desktop.DesktopToolkit.openPageInBrowser(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkUpdate(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager.checkThreadRun(Unknown Source)
+	at net.sf.regain.ui.desktop.IndexUpdateManager$1.run(Unknown Source)
